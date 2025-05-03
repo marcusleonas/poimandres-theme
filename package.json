@@ -1,0 +1,29 @@
+{
+  "name": "poimandres",
+  "displayName": "poimandres",
+  "description": "open-vsx version of the poimandres theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "author": "marcusleonas",
+  "keywords": [
+    "poimandres",
+    "pmndrs",
+    "vsc",
+    "dark",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "poimandres",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poimandres-color-theme.json"
+      }
+    ]
+  }
+}
