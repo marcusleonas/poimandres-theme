@@ -1,6 +1,7 @@
 {
   "name": "poimandres",
   "displayName": "poimandres",
+  "icon": "assets/pmndrs.png",
   "description": "open-vsx version of the poimandres theme",
   "version": "0.0.1",
   "engines": {
