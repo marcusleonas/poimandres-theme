@@ -3,9 +3,9 @@
   "displayName": "poimandres",
   "icon": "assets/pmndrs.png",
   "description": "open-vsx version of the poimandres theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.96.0"
   },
   "author": "marcusleonas",
   "publisher": "flvffy",
